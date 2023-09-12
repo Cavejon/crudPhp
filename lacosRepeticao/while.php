@@ -1,6 +1,6 @@
 <?php
 
-//WHILE quando a condição for verdadeira o código para mas caso seja falsa irá se repetir
+//WHILE quando a condição for verdadeira o código roda infinitamente  mas caso seja falsa será dado uma vez 
 
 $isAlive = true;
 
